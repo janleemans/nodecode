@@ -10,7 +10,7 @@ console.log('Exact name: ' + process.env.ORA_INSTANCE_NAME);
 //runGetRequest();
 //runDatabaseQuery();
 
-// Does a GET request to ip.jsontest.com
+//   Does a GET request to ip.jsontest.com
 function runGetRequest() {
     
     //sample URL.
